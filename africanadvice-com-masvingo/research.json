@@ -1,0 +1,24 @@
+{
+  "lead": {
+    "name": "africanadvice.com",
+    "category": "hair salon",
+    "city": "Masvingo",
+    "address": "Masvingo",
+    "phone": "",
+    "email": "",
+    "website": "https://africanadvice.com",
+    "lat": null,
+    "lon": null,
+    "source": "web_directory"
+  },
+  "facts": {},
+  "copy": {
+    "tagline": "Hair Salon services in Masvingo",
+    "about": "africanadvice.com is a hair salon business serving Masvingo. Get in touch to find out how we can help you.",
+    "services": [
+      "Hair Salon products and services",
+      "Friendly local support",
+      "Call or WhatsApp us for a quote"
+    ]
+  }
+}
